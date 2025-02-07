@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e7e013c900170049bd5fc5dd8457dd5, type: 3}
+  m_Name: 6
+  m_EditorClassIdentifier: 
+  m_materialCode: 6
+  m_materialSprite: {fileID: 21300000, guid: 5cb67a26217df8242b6753ba735029e3, type: 3}
+  m_materialName: "\uBA39\uBB3C \uC8FC\uBA38\uB2C8"
+  m_materialExplain: "\uC2E0\uC120\uD558\uACE0 \uC9C4\uD55C \uBA39\uBB3C\uC774 \uB4E4\uC5B4\uC788\uB2E4."
